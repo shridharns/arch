@@ -1,2 +1,3 @@
-# arch
-Thoughts around architecture
+# Architecture
+
+A place to capture few thoughts around architecture.
